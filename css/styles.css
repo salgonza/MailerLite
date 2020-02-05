@@ -165,7 +165,7 @@ textarea, select, input, button { outline: none; }
 }
 
 .globe {
-    background-image: url(https://salgonza.github.io/MailerLite/imgs/globe.svg);
+    background-image: url("https://salgonza.github.io/MailerLite/imgs/globe.svg");
     min-height: 181px;
     background-repeat: no-repeat;
     background-position: center;
