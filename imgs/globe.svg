@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="213px" height="178px" viewBox="0 0 213 178" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
+    <title>Path</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Landing" transform="translate(-220.000000, -1827.000000)" stroke="#D7DAD8" stroke-width="4">
+            <g id="numbers" transform="translate(199.000000, 1579.000000)">
+                <g id="case1" transform="translate(0.000000, 250.000000)">
+                    <g id="globe_1" transform="translate(23.000000, 0.000000)">
+                        <path d="M187.286191,0 L21.7528979,0 C9.73910411,0 0,9.77096408 0,21.8240591 L0,170 L28.7169551,138.362965 L187.286191,138.362965 C193.051827,138.362974 198.580747,136.062408 202.653997,131.968471 C206.727246,127.874534 209.010353,122.323394 209,116.538906 L209,21.8240591 C209.010353,16.0395711 206.727246,10.4884309 202.653997,6.39449369 C198.580747,2.30055644 193.051827,0 187.286191,0 Z" id="Path"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
